@@ -6,14 +6,16 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 
+markdown: redcarpet
+
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : 寂静 流年
+tagline: ［冰与火的交缠，无法平息的灵魂］
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : cuxnil
+  email : cuxnil@gmail.com
   github : username
   twitter : username
   feedburner : feedname
@@ -83,7 +85,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : cuxnil
     livefyre :
       site_id : 123
     intensedebate :
@@ -101,7 +103,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-40219011-1'
     getclicky :
       site_id : 
     mixpanel :
